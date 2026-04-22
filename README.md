@@ -16,3 +16,11 @@ y un metodo para imprimir. Con constructor que instancia una variable global.
 
 Cree la clase MetodoBurbujaAvanzado que implementa metodo de ordenamiento ascendente, descendente
 y un metodo para imprimir. Tambien contamos comparaciones y cambios y optimizamos el programa
+
+## Parctica 1.3 Metodo Burbuja Avanzada
+### Fecha: 22/04/2026
+### Descripcion: 
+
+Hoy cree la clase Metodo Seleccion y ordenamos los numeros  
+
+
